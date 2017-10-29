@@ -1,0 +1,8 @@
+package logic
+
+object CreateLatex {
+
+
+
+
+}
